@@ -9,6 +9,8 @@ Just add your name and city below.
 
 ### Nathan Beard from MN
 
+### Kizito from Nigeria
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
