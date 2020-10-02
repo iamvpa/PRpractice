@@ -1,8 +1,10 @@
 # Pull Request Repository
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![pub package](https://img.shields.io/badge/iamvpa-FPS%20Coder-green)](https://pub.dartlang.org/packages/flutter_tags)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Just add your name and city below.
+### Vishnu Priy Agnihotri from Jaipur
 
 
 
