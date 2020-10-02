@@ -7,6 +7,7 @@ Just add your name and city below.
 
 ### Sumit Awasthi from Lucknow
 
+### Nathan Beard from MN
 
 ## Contributors ✨
 
