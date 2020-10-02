@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 [![pub package](https://img.shields.io/badge/iamvpa-FPS%20Coder-green)](https://pub.dartlang.org/packages/flutter_tags)
-[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/iamvpa/PRpractice) [![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/iamvpa/PRpractice) [![GitHub watchers](https://img.shields.io/github/watchers/iampawan/FlutterExampleApps.svg?style=social&label=Watch)](https://github.com/iamvpa/PRpractice)
+[![GitHub stars](https://img.shields.io/github/stars/iamvpa/PRpractice.svg?style=social&label=Star)](https://github.com/iamvpa/PRpractice) [![GitHub forks](https://img.shields.io/github/forks/iamvpa/PRpractice.svg?style=social&label=Fork)](https://github.com/iamvpa/PRpractice) [![GitHub watchers](https://img.shields.io/github/watchers/iamvpa/PRpractice.svg?style=social&label=Watch)](https://github.com/iamvpa/PRpractice)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Just add your name and city below.
 ### Vishnu Priy Agnihotri from Jaipur
