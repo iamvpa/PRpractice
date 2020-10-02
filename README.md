@@ -7,6 +7,7 @@
 Just add your name and city below.
 ### Vishnu Priy Agnihotri from Jaipur
 
+### Sumit Awasthi from Lucknow
 
 
 ## Contributors ✨
@@ -19,7 +20,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://iamvpa.github.io/pw/"><img src="https://avatars1.githubusercontent.com/u/48381326?v=4" width="100px;" alt=""/><br /><sub><b>Vishnu Priy Agnihotri</b></sub></a><br /><a href="https://github.com/iamvpa/PRpractice/commits?author=iamvpa" title="Code">💻</a></td>
+    
   </tr>
+ 
 </table>
 
 <!-- markdownlint-enable -->
