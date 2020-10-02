@@ -9,6 +9,9 @@ Just add your name and city below.
 
 ### Nathan Beard from MN
 
+
+### Priya Baweja from Gurgaon
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
