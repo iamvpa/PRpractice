@@ -12,7 +12,11 @@ Just add your name and city below.
 ### Nathan Beard from MN
 
 
+### Kizito from Nigeria
+
+
 ### Priya Baweja from Gurgaon
+
 
 ## Contributors ✨
 
