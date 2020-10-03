@@ -13,30 +13,33 @@ Just add your name and city below.
 
 ### Vishnu Priy Agnihotri from Jaipur
 
-
 ### Pavan Kommisetty from Pune
 
 ### Sumit Awasthi from Lucknow
 
 ### Nathan Beard from MN
 
-
 ### Kizito from Nigeria
 
-
 ### Priya Baweja from Gurgaon
-
 
 ### João Pedro Fonseca Dantas from Natal
 
 
 
+
 ### Thanawat Gulati from Bangkok
+
 
 ### Rabin Khatiwada from Biratnagar
 
 
 ### Fernando Soares from Santa Catarina
 
+
+### Ipshita from Ranchi
+
+
 ### Troy Dylan Ting Serapio from San Juan
+
 
