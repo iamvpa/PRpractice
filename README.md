@@ -54,4 +54,7 @@ Just add your name and city below.
 
 ### Swaraj Gore from Pune
 
+### Anirudh Goel from Delhi
+
 ### Robert from Oregon
+
