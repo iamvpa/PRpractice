@@ -16,13 +16,13 @@ git clone <copied_link>
 
 4. Committing your changes : Type the following command to save your changes to the git repository on your computer.
 
-``
+```bash
 git commit -m "Added <Your Name>"
 ```
 
 5. Pushing your changes: Type the following command to push changes to remote repository on your github account.
 
-``
+```bash
 git pussh origin main
 ```
 
