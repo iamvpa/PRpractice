@@ -13,7 +13,37 @@
       "contributions": [
         "code"
       ]
-    }
+    },
+    {
+      "login": "sumit-awasthi",
+      "name": "sumit-awasthi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/72277800?v=4",
+      "profile": "https://github.com/sumit-awasthi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hadron43",
+      "name": "Harsh Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55682057?v=4",
+      "profile": "https://github.com/hadron43",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nbeard49",
+      "name": "nbeard49",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17462407?v=4",
+      "profile": "https://github.com/nbeard49",
+      "contributions": [
+        "code"
+      ]
+    },
+
+    
+
   ],
   "contributorsPerLine": 7,
   "projectName": "PRpractice",
