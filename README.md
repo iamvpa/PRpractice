@@ -43,4 +43,4 @@ Just add your name and city below.
 ### Troy Dylan Ting Serapio from San Juan
 
 ### Gourav from Delhi
-#₹#
+
