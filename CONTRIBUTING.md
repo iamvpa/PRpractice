@@ -1,6 +1,6 @@
 # Contibuting Guidelines
 
-This repository is made for poeple struggling to make their first pull request. If you too are new to open source world, you're at the right place.
+This repository is made for people struggling to make their first pull request. If you too are new to open source world, you're at the right place.
 
 ## Steps to follow
 
@@ -16,14 +16,18 @@ git clone <copied_link>
 
 4. Committing your changes : Type the following command to save your changes to the git repository on your computer.
 
-``
+```bash
 git commit -m "Added <Your Name>"
 ```
 
 5. Pushing your changes: Type the following command to push changes to remote repository on your github account.
 
 ``
+git push origin main
+
+```bash
 git pussh origin main
+
 ```
 
 6. Pull Request : Finally click on Compare and Pull Request button on your forked repository. Add a comment, and open pull request.
