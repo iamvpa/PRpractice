@@ -65,6 +65,10 @@ Just add your name and city below.
 
 ### Ashutosh Kumar from Jalandhar
 
+
+### Fajar Saputro Juliantoro from Cimahi
+
 ### Hasobi from Surakarta
+
 
 
