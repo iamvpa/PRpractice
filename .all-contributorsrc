@@ -41,9 +41,14 @@
         "code"
       ]
     },
-
-    
-
+    {
+      "login": "kizito007",
+      "name": "codevocate",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/46095761?s=460&u=e508382602aac25d10bd6a4fda6059cbd30c2c2c&v=4",
+      "profile": "https://github.com/Kizito007",
+      "contributions": [
+        "code"
+      ]
   ],
   "contributorsPerLine": 7,
   "projectName": "PRpractice",
