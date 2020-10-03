@@ -25,7 +25,7 @@ Just add your name and city below.
 
 ### João Pedro Fonseca Dantas from Natal
 
-
+### Andrea from Italy
 
 
 ### Thanawat Gulati from Bangkok
@@ -72,5 +72,9 @@ Just add your name and city below.
 
 ### Laura from Uk
 
+
 ### Prasanna from India
+
+### Risky Muhamad from Bekasi
+
 
