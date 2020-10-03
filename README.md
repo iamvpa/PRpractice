@@ -79,5 +79,6 @@ Just add your name and city below.
 
 ### Nikhil from London
 
+### Vipul from Pune
 
 ### Adrian from India
