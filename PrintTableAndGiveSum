@@ -1,0 +1,10 @@
+num1=int(input())
+i=1
+l=0
+while(i<=10):
+    a=num1*i
+    print(a,end=" ")
+    l=l+a
+    i=i+1
+print()
+print(l)
