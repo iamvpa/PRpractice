@@ -16,7 +16,7 @@ git clone <copied_link>
 
 4. Committing your changes : Type the following command to save your changes to the git repository on your computer.
 
-``
+```bash
 git commit -m "Added <Your Name>"
 ```
 
@@ -24,6 +24,10 @@ git commit -m "Added <Your Name>"
 
 ``
 git push origin main
+
+```bash
+git pussh origin main
+
 ```
 
 6. Pull Request : Finally click on Compare and Pull Request button on your forked repository. Add a comment, and open pull request.
