@@ -27,7 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/sumit-awasthi"><img src="https://avatars0.githubusercontent.com/u/72277800?v=4" width="100px;" alt=""/><br /><sub><b>sumit-awasthi</b></sub></a><br /><a href="https://github.com/iamvpa/PRpractice/commits?author=sumit-awasthi" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hadron43"><img src="https://avatars3.githubusercontent.com/u/55682057?v=4" width="100px;" alt=""/><br /><sub><b>Harsh Kumar</b></sub></a><br /><a href="https://github.com/iamvpa/PRpractice/commits?author=hadron43" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nbeard49"><img src="https://avatars2.githubusercontent.com/u/17462407?v=4" width="100px;" alt=""/><br /><sub><b>nbeard49</b></sub></a><br /><a href="https://github.com/iamvpa/PRpractice/commits?author=nbeard49" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/priya-pri"><img src="https://avatars1.githubusercontent.com/u/35191454?v=4" width="100px;" alt=""/><br /><sub><b>Priya Baweja</b></sub></a><br /><a href="https://github.com/iamvpa/PRpractice/commits?author=priya-pri" title="Code">💻</a></td>
+
   </tr>
 </table>
 
