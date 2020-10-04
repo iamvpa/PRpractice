@@ -86,6 +86,10 @@ Just add your name and city below.
 
 ### Adrian from India
 
+### Lucifer from India
+### Nikhil Anand from Ranchi
+
+
 
 
 ### Prince Kumar from India
