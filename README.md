@@ -8,7 +8,6 @@
 
 
 Just add your name and city below.
-### Samarth Mayya from Mangaluru
 
 ### Vishnu Priy Agnihotri from Jaipur
 
@@ -56,6 +55,9 @@ Just add your name and city below.
 
 ### Robert from Oregon
 
+
+### Chidera from Nigeria
+
 ### Ashutosh Kumar from Jalandhar
 
 ### Fajar Saputro Juliantoro from Cimahi
@@ -90,4 +92,11 @@ Just add your name and city below.
 
 ### LizzxD from The Netherlands
 
+
 ### Aakash prajapat from Indore
+
+### Camiila from Peru 
+
+
+### Jehan from Colombo
+
