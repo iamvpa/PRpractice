@@ -9,7 +9,7 @@
 
 
 Just add your name and city below.
-
+### Samarth Mayya from Mangaluru
 
 ### Vishnu Priy Agnihotri from Jaipur
 
@@ -25,7 +25,7 @@ Just add your name and city below.
 
 ### João Pedro Fonseca Dantas from Natal
 
-
+### Andrea from Italy
 
 
 ### Thanawat Gulati from Bangkok
@@ -54,9 +54,62 @@ Just add your name and city below.
 
 ### Swaraj Gore from Pune
 
+
+### Robert from Oregon
+
+### Ilman Syafiqi from Gresik
+
 ### Anirudh Goel from Delhi
 
 ### Robert from Oregon
 
+
 ### Chidera from Nigeria
+
+### Ashutosh Kumar from Jalandhar
+
+
+### Fajar Saputro Juliantoro from Cimahi
+
+### Hasobi from Surakarta
+
+### Laura from Uk
+
+
+### Prasanna from India
+
+### Risky Muhamad from Bekasi
+
+### Nikhil from London
+
+### Vipul from Pune
+
+
+### Henry Martinez from Colombia
+
+### Adrian from India
+
+### Lucifer from India
+### Nikhil Anand from Ranchi
+
+
+
+
+
+
+
+
+
+
+
+### Prince Kumar from India
+
+### Matt from Lublin
+
+### Ishieta from Gurugram
+### Karan from Pune
+
+### LizzxD from The Netherlands
+
+### Jehan from Colombo
 
