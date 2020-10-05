@@ -94,5 +94,6 @@ Just add your name and city below.
 ### Camiila from Peru
 
 ### Jehan from Colombo
+### Tim from Germany
 
 ### Soumyadip from India
