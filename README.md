@@ -63,6 +63,9 @@ Just add your name and city below.
 
 ### Robert from Oregon
 
+
+### Chidera from Nigeria
+
 ### Ashutosh Kumar from Jalandhar
 
 
@@ -107,4 +110,9 @@ Just add your name and city below.
 ### Karan from Pune
 
 ### LizzxD from The Netherlands
+
 ### Camiila from Peru 
+
+
+### Jehan from Colombo
+
