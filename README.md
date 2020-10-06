@@ -79,8 +79,6 @@ Just add your name and city below.
 
 ### Nikhil Anand from Ranchi
 
-### Prince Kumar from India
-
 ### Matt from Lublin
 
 ### Ishieta from Gurugram
