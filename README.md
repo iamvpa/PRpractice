@@ -113,8 +113,12 @@ Just add your name and city below.
 
 ### Mohammed Shakir from India
 
+
+### Daniel Sedrick from New Zealand
+
 ### Henry Kim from UK
 
 ### Charlie Wu from London
+
 
 
