@@ -99,12 +99,9 @@ Just add your name and city below.
 
 ### Soumyadip from India
 
-
 ### Alps from England
 
-
 ### Yashithi from Colombo
-
 
 ### Shreyansh from India
 
@@ -116,5 +113,5 @@ Just add your name and city below.
 
 ### Mohammed Shakir from India
 
-
+### Daniel Sedrick from New Zealand
 
