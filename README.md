@@ -99,12 +99,9 @@ Just add your name and city below.
 
 ### Soumyadip from India
 
-
 ### Alps from England
 
-
 ### Yashithi from Colombo
-
 
 ### Shreyansh from India
 
@@ -115,6 +112,8 @@ Just add your name and city below.
 ### Janis from Latvia
 
 ### Mohammed Shakir from India
+
+### Henry Kim from UK
 
 
 
