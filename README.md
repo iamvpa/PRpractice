@@ -7,6 +7,8 @@
 
 Just add your name and city below.
 
+### Hasna Akbar Ali from India
+
 ### Vishnu Priy Agnihotri from Jaipur
 
 ### Pavan Kommisetty from Pune
