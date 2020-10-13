@@ -139,4 +139,8 @@ Just add your name and city below.
 
 ### Alex Borrelli from the US
 
+
+### Tomasz Przyborowski from Poland
+
 ### Lewis Baston from Northern Ireland
+
