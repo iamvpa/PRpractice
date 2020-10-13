@@ -7,6 +7,7 @@
 
 Just add your name and city below.
 
+### Kritima Kaushal from Lucknow
 
 ### Vishnu Priy Agnihotri from Jaipur
 
