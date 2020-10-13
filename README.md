@@ -141,3 +141,5 @@ Just add your name and city below.
 ### Courtney Overby from the US
 
 ### Alex Borrelli from the US
+
+### Tomasz Przyborowski from Poland
