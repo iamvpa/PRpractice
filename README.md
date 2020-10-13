@@ -142,4 +142,4 @@ Just add your name and city below.
 
 ### Alex Borrelli from the US
 
-### Malaika Khalid from Pakistan
+### Malaika Khalid from Karachi
