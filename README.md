@@ -131,6 +131,7 @@ Just add your name and city below.
 
 ### Kittidet Cheavachirakul from Bangkok
 
+### Chris from Germany
 
 ### Somya Prajapati from India
 
