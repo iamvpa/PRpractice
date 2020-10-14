@@ -15,6 +15,8 @@ Just add your name and city below.
 
 ### Pavan Kommisetty from Pune
 
+### Jordan Hilado from Los Angeles, CA, USA
+
 ### Sumit Awasthi from Lucknow
 
 ### Nathan Beard from MN
@@ -161,4 +163,3 @@ Just add your name and city below.
 ### Shravya from Karnataka
 
 ### Nawarathna from London
-
