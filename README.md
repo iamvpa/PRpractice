@@ -1,13 +1,13 @@
 # Pull Request Repository
 
-
-
 [![pub package](https://img.shields.io/badge/iamvpa-FPS%20Coder-green)](https://pub.dartlang.org/packages/flutter_tags)
-[![GitHub stars](https://img.shields.io/github/stars/iamvpa/PRpractice.svg?style=social&label=Star)](https://github.com/iamvpa/PRpractice) [![GitHub forks](https://img.shields.io/github/forks/iamvpa/PRpractice.svg?style=social&label=Fork)](https://github.com/iamvpa/PRpractice) 
+[![GitHub stars](https://img.shields.io/github/stars/iamvpa/PRpractice.svg?style=social&label=Star)](https://github.com/iamvpa/PRpractice) [![GitHub forks](https://img.shields.io/github/forks/iamvpa/PRpractice.svg?style=social&label=Fork)](https://github.com/iamvpa/PRpractice)
 
 Just add your name and city below.
 
-### Kritima Kaushal from Lucknow
+
+
+
 
 ### Vishnu Priy Agnihotri from Jaipur
 
@@ -30,6 +30,8 @@ Just add your name and city below.
 ### Thanawat Gulati from Bangkok
 
 ### Rabin Khatiwada from Biratnagar
+
+### Kritima Kaushal from Lucknow
 
 ### Fernando Soares from Santa Catarina
 
@@ -111,7 +113,7 @@ Just add your name and city below.
 
 ### Shreyansh from India
 
-###  Traci Chan from Independence
+### Traci Chan from Independence
 
 ### Justobioma from Nigeria
 
@@ -142,3 +144,9 @@ Just add your name and city below.
 ### Courtney Overby from the US
 
 ### Alex Borrelli from the US
+
+
+### Tomasz Przyborowski from Poland
+
+### Lewis Baston from Northern Ireland
+
