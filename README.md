@@ -5,6 +5,10 @@
 
 Just add your name and city below.
 
+
+
+
+
 ### Vishnu Priy Agnihotri from Jaipur
 
 ### Nithya from India
@@ -26,6 +30,8 @@ Just add your name and city below.
 ### Thanawat Gulati from Bangkok
 
 ### Rabin Khatiwada from Biratnagar
+
+### Kritima Kaushal from Lucknow
 
 ### Fernando Soares from Santa Catarina
 
@@ -139,9 +145,17 @@ Just add your name and city below.
 
 ### Alex Borrelli from the US
 
+### Malaika Khalid from Karachi
 
 ### Tomasz Przyborowski from Poland
 
 ### Lewis Baston from Northern Ireland
 
+
 ### Andrew J from NY
+
+
+### Shravya from Karnataka
+
+
+
