@@ -154,6 +154,7 @@ Just add your name and city below.
 
 ### Sugath Kumara from Sri Lanka
 
+### Daniel Ogbuti from Nigeria
 
 ### Andrew J from NY
 
