@@ -145,10 +145,13 @@ Just add your name and city below.
 
 ### Alex Borrelli from the US
 
+### Malaika Khalid from Karachi
 
 ### Tomasz Przyborowski from Poland
 
 ### Lewis Baston from Northern Ireland
 
+
 ### Shravya from Karnataka
+
 
