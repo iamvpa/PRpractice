@@ -15,6 +15,8 @@ Just add your name and city below.
 
 ### Pavan Kommisetty from Pune
 
+### Jordan Hilado from Los Angeles, CA, USA
+
 ### Sumit Awasthi from Lucknow
 
 ### Nathan Beard from MN
@@ -154,6 +156,7 @@ Just add your name and city below.
 
 ### Sugath Kumara from Sri Lanka
 
+### Daniel Ogbuti from Nigeria
 
 ### Andrew J from NY
 
@@ -162,4 +165,22 @@ Just add your name and city below.
 
 ### Nawarathna from London
 
+
 ### Nishith from Karnataka
+
+
+
+
+### Prateek from India
+
+
+### Raptosh from Guwahati
+
+
+### Shahrukh Khan from Delhi
+
+### Alvin Adarsh Kumar from Delhi
+
+
+
+
