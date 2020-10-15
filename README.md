@@ -45,7 +45,7 @@ Just add your name and city below.
 
 ### Gourav from Delhi
 
-### Himanshu Pandey from Jaipur
+### Himanshu Pandey from Bagheswar
 
 ### Trevor from Logan
 
@@ -190,7 +190,7 @@ Just add your name and city below.
 ### Alvin Adarsh Kumar from Delhi
 ### Harjot Singh from Punjab
 
-### ruchi vira from SL
+### Ruchi vira from SL
 
 
 
