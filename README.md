@@ -35,6 +35,8 @@ Just add your name and city below.
 
 ### Kritima Kaushal from Lucknow
 
+
+
 ### Fernando Soares from Santa Catarina
 
 ### Ipshita from Ranchi
@@ -164,6 +166,9 @@ Just add your name and city below.
 ### Shravya from Karnataka
 
 ### Nawarathna from London
+
+
+### Mayur from Bengaluru
 
 
 ### Rajath from Bangalore
