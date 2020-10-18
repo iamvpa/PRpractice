@@ -192,11 +192,9 @@ Just add your name and city below.
 
 ### Ruchi vira from SL
 
-
+### Nitin Shukla from Indore
 
 ### Felix from Canada
 ### Johan from The Netherlands
-
-
 
 
