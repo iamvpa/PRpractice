@@ -7,7 +7,7 @@ Just add your name and city below.
 
 
 
-
+### Jatin Bajaj from Jabalpur, M.P.
 
 ### Vishnu Priy Agnihotri from Jaipur
 
@@ -197,5 +197,4 @@ Just add your name and city below.
 ### Felix from Canada
 ### Johan from The Netherlands
 ### Zheng Kang from Singapore
-
 
