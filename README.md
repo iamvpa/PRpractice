@@ -196,6 +196,7 @@ Just add your name and city below.
 
 ### Felix from Canada
 ### Johan from The Netherlands
+### Zheng Kang from Singapore
 
 
 
