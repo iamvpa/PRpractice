@@ -7,7 +7,6 @@ Just add your name and city below.
 
 
 
-### Jatin Bajaj from Jabalpur, M.P.
 
 ### Vishnu Priy Agnihotri from Jaipur
 
@@ -20,6 +19,8 @@ Just add your name and city below.
 ### Sumit Awasthi from Lucknow
 
 ### Nathan Beard from MN
+
+### Jatin Bajaj from Jabalpur
 
 ### Kizito from Nigeria
 
