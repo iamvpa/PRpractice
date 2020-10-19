@@ -195,6 +195,7 @@ Just add your name and city below.
 
 ### Nitin Shukla from Indore
 
+###Elias from the United States
 ### Felix from Canada
 ### Johan from The Netherlands
 ### Zheng Kang from Singapore
