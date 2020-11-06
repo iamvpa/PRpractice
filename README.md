@@ -1,6 +1,6 @@
 # Pull Request Repository
 
-[![pub package](https://img.shields.io/badge/iamvpa-FPS%20Coder-green)](https://pub.dartlang.org/packages/flutter_tags)
+[![pub package](https://img.shields.io/badge/iamvpa-FPS%20Coder-brightgreen)](https://pub.dartlang.org/packages/flutter_tags)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/iamvpa/PRpractice.svg?style=social&label=Star)](https://github.com/iamvpa/PRpractice) [![GitHub forks](https://img.shields.io/github/forks/iamvpa/PRpractice.svg?style=social&label=Fork)](https://github.com/iamvpa/PRpractice)
 
