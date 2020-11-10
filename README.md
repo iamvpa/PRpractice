@@ -7,6 +7,8 @@
 Just add your name and city below.
 
 
+### Samyak Bambole (samyakbambole) fromm Maharashtra, India
+
 ### Saurajit Seth from UK
 
 ### Vishnu Priy Agnihotri from Jaipur
