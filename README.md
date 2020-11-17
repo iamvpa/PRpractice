@@ -7,7 +7,7 @@
 Just add your name and city below.
 
 
-### Samyak Bambole (samyakbambole) fromm Maharashtra, India
+### Samyak Bambole from India
 
 ### Saurajit Seth from UK
 
