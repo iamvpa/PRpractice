@@ -1,4 +1,5 @@
-# Pull Request Repository
+
+Pull Request Repository
 
 [![pub package](https://img.shields.io/badge/iamvpa-FPS%20Coder-brightgreen)](https://pub.dartlang.org/packages/flutter_tags)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -6,6 +7,7 @@
 
 Just add your name and city below.
 
+### Premang Raithatha from Jam Jodhpur
 
 ### Samyak Bambole from India
 
