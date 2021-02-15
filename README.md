@@ -43,8 +43,6 @@ Just add your name and city below.
 
 ### Kritima Kaushal from Lucknow
 
-
-
 ### Fernando Soares from Santa Catarina
 
 ### Ipshita from Ranchi
@@ -165,39 +163,30 @@ Just add your name and city below.
 
 ### Lewis Baston from Northern Ireland
 
-
 ### Sugath Kumara from Sri Lanka
 
 ### Daniel Ogbuti from Nigeria
 
 ### Andrew J from NY
 
-
 ### Shravya from Karnataka
 
 ### Nawarathna from London
 
-
 ### Mayur from Bengaluru
-
 
 ### Rajath from Bangalore
 
-
 ### Nishith from Karnataka
-
-
-
 
 ### Prateek from India
 
-
 ### Raptosh from Guwahati
-
 
 ### Shahrukh Khan from Delhi
 
 ### Alvin Adarsh Kumar from Delhi
+
 ### Harjot Singh from Punjab
 
 ### Ruchi vira from SL
@@ -205,16 +194,21 @@ Just add your name and city below.
 ### Nitin Shukla from Indore
 
 ### Elias from the United States
+
 ### Felix from Canada
+
 ### Johan from The Netherlands
+
 ### Zheng Kang from Singapore
 
 ### Renata from Singapore
+
 ### Evonne from Singapore
 
 ### Putra Reddy from Kakinada
 
 ### Darrius from Singapore
+
 ### Juan from California
 
 ### coldCoffeeDev from Vienna,Austria
@@ -224,3 +218,5 @@ Just add your name and city below.
 ### Terayza from South Africa
 
 ### Hemin Patel from India
+
+### IGoSad from Tunisia
