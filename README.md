@@ -7,7 +7,7 @@ Pull Request Repository
 
 Just add your name and city below.
 
-### Vishnu Priy Agnihotri from Jaipur
+### Vishnu Priy Agnihotri from Lucknow
 
 ### Premang Raithatha from Jam Jodhpur
 
