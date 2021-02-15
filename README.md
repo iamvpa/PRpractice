@@ -7,13 +7,15 @@ Pull Request Repository
 
 Just add your name and city below.
 
+### Vishnu Priy Agnihotri from Jaipur
+
 ### Premang Raithatha from Jam Jodhpur
 
 ### Samyak Bambole from India
 
 ### Saurajit Seth from UK
 
-### Vishnu Priy Agnihotri from Jaipur
+
 
 ### Nithya from India
 
