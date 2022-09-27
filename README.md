@@ -7,6 +7,8 @@ Pull Request Repository
 
 Just add your name and city below.
 
+### Satish from India
+
 ### Vishnu Priy Agnihotri from Lucknow
 
 ### Premang Raithatha from Jam Jodhpur
