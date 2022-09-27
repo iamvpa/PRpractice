@@ -7,7 +7,7 @@ Pull Request Repository
 
 Just add your name and city below.
 
-### Satish Garg from Noida
+### Satish from India
 
 ### Vishnu Priy Agnihotri from Lucknow
 
